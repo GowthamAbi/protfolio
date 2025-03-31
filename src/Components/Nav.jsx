@@ -1,6 +1,6 @@
 function Nav() {
     return (
-        <nav className="flex flex-col md:flex-row items-center justify-between p-4  text-black font:Arial,Helvetica,sans-serif">
+        <nav className="flex flex-col md:flex-row items-center justify-between p-8  text-black font:Arial,Helvetica,sans-serif">
             <div className="text-lg font-semibold">
                 <p>Gowtham / Software Developer</p>
             </div>
